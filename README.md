@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-`esp32node-ros` is a repository that provides a framework for integrating the ESP32 microcontroller with the Robot Operating System (ROS). This combination allows you to leverage the capabilities of the ESP32 in robotic applications, enabling communication with other ROS nodes and taking advantage of the extensive ROS ecosystem.
+`esp32node-ros` is a repository that provides integrating the ESP32 microcontroller with the Robot Operating System (ROS). This combination allows you to leverage the capabilities of the ESP32 in robotic applications, enabling communication with other ROS nodes and taking advantage of the extensive ROS ecosystem.
 
 ## **Features**
 
